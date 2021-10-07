@@ -1,0 +1,23 @@
+body{
+    height:100vh;
+}
+
+main{
+    width:75%;
+    height:100%;
+    margin:auto;
+    border:1px solid black;
+}
+h1{
+    text-align:center;
+    font-weight:300;
+    font-size:2rem;
+}
+table{
+    width:1000px;
+    height:500px;
+    border-collapse: collapse;
+}
+th, td{
+    border:1px solid black;
+}

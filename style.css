@@ -6,7 +6,7 @@ main{
     width:75%;
     height:100%;
     margin:auto;
-    border:1px solid black;
+  
 }
 h1{
     text-align:center;
@@ -18,6 +18,13 @@ table{
     height:500px;
     border-collapse: collapse;
 }
-th, td{
+td{
     border:1px solid black;
+}
+
+th {
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+}
 }

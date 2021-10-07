@@ -15,8 +15,15 @@ h1{
 }
 table{
     width:1000px;
-    height:500px;
+    height:680px;
     border-collapse: collapse;
+    margin:auto;
+}
+thead{
+    height:20%;
+}
+tbody{
+    height:80%;
 }
 td{
     border:1px solid black;
@@ -27,4 +34,15 @@ th {
     background-color: black;
     border: 1px solid white;
 }
+tr{
+    height:10%;
+}
+td,th{
+    font-size:24px;
+}
+td{
+    padding-Left:2%;
+}
+p{
+    font-size:16px;
 }

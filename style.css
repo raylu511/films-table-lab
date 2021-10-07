@@ -1,7 +1,9 @@
 body{
     height:100vh;
 }
-
+*{
+    box-sizing:border-box;
+}
 main{
     width:75%;
     height:100%;
@@ -14,7 +16,7 @@ h1{
     font-size:2rem;
 }
 table{
-    width:1000px;
+    width:950px;
     height:680px;
     border-collapse: collapse;
     margin:auto;
